@@ -1,0 +1,1 @@
+Tietokone työvälineenä kurssin tehtäviä.
