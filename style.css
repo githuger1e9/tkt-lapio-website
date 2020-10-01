@@ -1,1 +1,7 @@
-p { background-color: red; }
+.punainen { color: red; }
+
+.ruskea { color: brown }
+
+.lila { color: blueviolet }
+
+p { color: brown }
