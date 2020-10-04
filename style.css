@@ -5,3 +5,44 @@
 .lila { color: blueviolet }
 
 p { color: brown }
+
+.container {
+  /* width: 800px;
+  height: 120px; */
+  /* margin: 10px;
+  padding: 10px; */
+}
+
+.first-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: red;
+  position: relative;
+  top: -10px;
+}
+
+.second-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+  margin-left: 0px;
+  position: relative;
+  top: -48.5px;
+  left: 230px
+}
+
+.third-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: green;
+  margin-left: 0px;
+  position: relative;
+  top: -48.5px;
+  left: 230px;
+  
+}
+
+
+
+
+
