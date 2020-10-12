@@ -6,33 +6,41 @@
 
 p { color: black }
 
-.first-box-container {
+.pos-text {
+  text-align: center;
+  margin-top: 20%;
+}
+
+.boksi {
+  display: inline-block;
   width: 200px;
   height: 100px;
+  border-style: solid;
+  border-width: 10px;
+}
+
+#eka {
   background-color: red;
-  position: relative;
-  top: -10px;
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  border-color: green;
 }
-
-.second-box-container {
-  width: 200px;
-  height: 100px;
-  background-color: yellow;
-  margin-left: 0px;
-  position: relative;
-  top: -35px;
-  left: 230px
-}
-
-.third-box-container {
-  width: 200px;
-  height: 100px;
-  background-color: green;
-  margin-left: 0px;
-  position: relative;
-  top: -35px;
-  left: 230px;
   
+#toka {
+  background-color: yellow;
+  position: absolute;
+  left: 250px;
+  top: 5px;
+  border-color: red;
+}
+
+#kolmas {
+  background-color: green;
+  position: absolute;
+  left: 495px;
+  top: 5px;
+  border-color: yellow;
 }
 
 
